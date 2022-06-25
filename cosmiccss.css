@@ -1,0 +1,62 @@
+.logo {
+    font-family: fantasy;
+    text-align: center;
+    padding: 5px;
+    font-size: 60px;
+    color: #103855;
+    border: 3px solid black;   
+    border-radius: 5px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0d/Astounding_Science_Fiction_%281950-01%29_-_The_Xi_Effect_-2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgba(144, 85, 130, 0.6)
+}
+.main {
+  width: 80%;
+  background-color: rgba(241, 242, 226, 0.96);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 1500px;
+  box-shadow: 0 0 20px 0 rgba(239, 239, 22, 0.92);
+  border: 3px solid black;
+  border-radius: 5px;
+  
+}
+body {
+    background-attachment: fixed;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Cosmic_web.jpg)
+}
+.side {
+    text-align: left;
+}
+.intro {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+}
+.block {
+    font-family: fantasy;
+    text-align: center;
+    padding: 5px;
+    font-size: 18px;
+    color: #103855;
+    border: 3px solid black;   
+    border-radius: 5px;
+    width: 60%;
+    float: right;
+    height: auto;
+}
+
+.left {
+    width: 30%;
+    float: left;
+}
+/*.float-container {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-bottom: 
+}*/
+.launch {
+    padding-top: 100px;
+}
